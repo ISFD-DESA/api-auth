@@ -1,0 +1,7 @@
+{
+    "app":"api-rapidatos",
+    "app_description":"Rapidatos es un microservicio de uso gerencial.",
+    "version":"1.0.0",
+    "author":"Eliseo Rahn",
+    "tag":"api-rapidatos"
+}
